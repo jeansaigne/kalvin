@@ -1,17 +1,17 @@
 header+.titles{
-	margin-top: 160px;
-	margin-bottom: 10%;
-	margin-right: 10%;
-	height: 50%;
-	padding: 5px;
+	margin: 100px 0;
+	/* margin-bottom: 10%; */
+	/* margin-right: 10%; */
+	/* height: 50%; */
+	/* padding: 5px 30px; */
 
 
-  }
+  text-align: center;}
 
 .titles h1, .titles h2{
 	position: relative;
 	font-size: 290%;
-	margin-top: 7%;
+	/* margin-top: 7%; */
 	
 
 }
